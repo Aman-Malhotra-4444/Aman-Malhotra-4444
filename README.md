@@ -1,5 +1,5 @@
 - Hi, I’m Aman Malhotra
-- - I have completed 1 year Post graduate program in Artificial intelligence and Machine Learning from Great Lakes Executive Learning.
+- I have completed 1 year Post graduate program in Artificial intelligence and Machine Learning from Great Lakes Executive Learning.
 - I’m currently working as a freelancer Data Analyst on Upwork.com
 - My Expertise is data analyzation and report building by using MS PowerBI ,Python , SQL , Excel.
 - Please have a look on my work here
